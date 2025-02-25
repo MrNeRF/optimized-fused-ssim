@@ -1,6 +1,6 @@
 # Optimized Fully Fused Differentiable SSIM
 
-This repository provides an optimized version of [fused-ssima](https://github.com/rahul-goel/fused-ssim), achieving better performance while maintaining the same interface. Below are performance comparisons measured using `tests/test.py`.
+This repository provides an optimized version of [fused-ssim](https://github.com/rahul-goel/fused-ssim), achieving better performance while maintaining the same interface. Below are performance comparisons measured using `tests/test.py`.
 
 ## Performance Comparison (measured on RTX 4090)
 
