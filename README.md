@@ -2,7 +2,7 @@
 
 This repository provides an optimized version of [fused-ssima](https://github.com/rahul-goel/fused-ssim), achieving better performance while maintaining the same interface. Below are performance comparisons measured using `tests/test.py`.
 
-## Performance Comparison
+## Performance Comparison (measured on RTX 4090)
 
 | Implementation            | Forward Time (ms) | Backward Time (ms) | Inference Time (ms) |
 |---------------------------|------------------|------------------|------------------|
